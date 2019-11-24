@@ -2,4 +2,4 @@
 
 Time: 12:  30
 
-update time: 12:40
+update t: 12:40
